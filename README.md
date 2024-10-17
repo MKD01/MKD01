@@ -15,7 +15,7 @@
   <li> <h4>NC News</h4>
     <p>'NC News' is an app built for viewing news articles. These articles can be sorted and filtered, and each article has a list of viewable comments as well. As a user you can switch users and view and upvote/downvote articles and comments. You can also add new comments and delete your own comments as well.
     </p>     
-    <a href="https://github.com/MKD01/accessapp-fe">Frontend</a> <a href="https://github.com/MKD01/accessapp-be">Backend</a>
+    <a href="https://github.com/MKD01/nc-news-fe">Frontend</a> <a href="https://github.com/MKD01/nc-news-be">Backend</a>
     <br /><br />
   </li>
 
