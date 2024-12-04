@@ -35,7 +35,7 @@
   
   <li> <h4>AdventOfCode</h4>
     <p>This is a project housing some of my advent of code solutions</p>     
-    <a href="https://github.com/mkd-Personal-Projects/adventOfCode)">Github Link</a>
+    <a href="https://github.com/mkd-Personal-Projects/adventOfCode">Github Link</a>
     <br /><br />
   </li>
 </ul>
