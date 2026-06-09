@@ -1,7 +1,7 @@
 ## Hi, I'm Mohammed Kabir Dastgir
 
 <h3>About Me:</h3>
-<p>I am a Software Engineer and Mentor currently working at <a href="https://northcoders.com/">Northcoders</a></p>
+<p>I am a Software Developer currently working at First Locate</p>
 
 ---
 <h3>My Projects:</h3>
